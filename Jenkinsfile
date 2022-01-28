@@ -5,7 +5,7 @@ pipeline {
    
 
        tools { 
-        maven 'maven3.8' 
+        maven 'Maven3.8' 
     }
 
     options {
